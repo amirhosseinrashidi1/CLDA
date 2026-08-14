@@ -754,19 +754,6 @@ The implementation is inspired by the architecture and methodology discussed in 
 
 ---
 
-# 27. License
-
-Add an appropriate license before publishing the repository.
-
-For example:
-
-```text
-MIT License
-```
-
-or another license appropriate for your research/project requirements.
-
----
 
 ## Acknowledgment
 
